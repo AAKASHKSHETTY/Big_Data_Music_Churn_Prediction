@@ -1,6 +1,6 @@
 # ChurnPrediction
 
-Streamify is a music streaming service ( like Spotify, Pandora, etc. ). In Sparkify users can either listen to music for free or buy a subscription. The free users will listen to ads while the subscription users ( or paid users ) will listen to songs ad-free. Users need a login to listen to a song on the service.
+Sparkify is a music streaming service ( like Spotify, Pandora, etc. ). In Sparkify users can either listen to music for free or buy a subscription. The free users will listen to ads while the subscription users ( or paid users ) will listen to songs ad-free. Users need a login to listen to a song on the service.
 From a subscription perspective at any point, users can do any of the following: 
 1. Upgrade from the free tier to the paid tier
 2. Downgrade from the paid tier to the free tier
